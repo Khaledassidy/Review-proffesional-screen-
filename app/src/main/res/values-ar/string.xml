@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">القرءان</string>
+    <string name="group_textview_personname">اسم المستخدم</string>
+    <string name="group_textview_pages">450 صفحة</string>
+    <string name="group_textview_finishes">100 ختمة</string>
+    <string name="group_edittext_search_hint">ادخل رقم المجموعة</string>
+    <string name="group_textview_searchhint">ابحث عن المجموعة!</string>
+    <string name="groud_textview_hintundersearch">ادخل رقم المجموعة للبحث عنها قم بطلب الرقم من مدير المجموعة</string>
+    <string name="group_textview_creategroup">انشاء مجموعة جديدة</string>
+    <string name="group_imageview_description">profile picture</string>
+
+
+</resources>

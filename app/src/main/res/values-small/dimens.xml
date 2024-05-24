@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="groups_image_width">120dp</dimen>
+    <dimen name="groups_image_height">120dp</dimen>
+    <dimen name="groups_username_margintop">20dp</dimen>
+    <dimen name="groups_username_textsize">22sp</dimen>
+    <dimen name="groups_username_padding">8dp</dimen>
+    <dimen name="group_textview_margin">10dp</dimen>
+    <dimen name="group_textview_padding">8dp</dimen>
+    <dimen name="group_textview_finishes_margin">10dp</dimen>
+    <dimen name="group_textview_finishes_padding">8dp</dimen>
+    <dimen name="group_textview_searchhint_marginTop">35dp</dimen>
+    <dimen name="group_textview_searchhint_textsize">23sp</dimen>
+    <dimen name="group_textview_searchhint_padding">10dp</dimen>
+    <dimen name="group_edittext_search_marginVertical">7dp</dimen>
+    <dimen name="group_edittext_search_padding">8dp</dimen>
+    <dimen name="group_edittext_search_drawblepadding">5dp</dimen>
+    <dimen name="group_edittext_search_marginHorizontal">30dp</dimen>
+    <dimen name="group_textview_hintundersearch_marginHorizontal">30dp</dimen>
+    <dimen name="group_textview_hintundersearch_textSize">15sp</dimen>
+    <dimen name="group_textview_hintundersearch_padding">10dp</dimen>
+    <dimen name="group_textview_creategroup_padding">10dp</dimen>
+    <dimen name="group_textview_creategroup_textsize">16sp</dimen>
+    <dimen name="group_textview_creategroup_margintop">35dp</dimen>
+
+</resources>

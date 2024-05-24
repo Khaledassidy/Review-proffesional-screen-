@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">quraan</string>
+    <string name="group_textview_personname">Username</string>
+    <string name="group_textview_pages">450 pages</string>
+    <string name="group_textview_finishes">100 finish</string>
+    <string name="group_edittext_search_hint">Enter group ID</string>
+    <string name="group_textview_searchhint">Search for a group</string>
+    <string name="groud_textview_hintundersearch">Enter group ID to search for ask ID from group admin</string>
+    <string name="group_textview_creategroup">Create new group</string>
+    <string name="group_imageview_description">profile picture</string>
+
+
+</resources>

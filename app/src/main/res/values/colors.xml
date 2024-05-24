@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+<!--    groups screen -->
+    <color name="group_layout_backgroud">#ebf4fc</color>
+    <color name="group_button_backgroud">#49788f</color>
+    <color name="group_textview_textcolor">#7c9cad</color>
+    <color name="group_textview_creategroup_textcolor">#1565C0</color>
+    <color name="group_imageview_strokecolor">#f5f9fd</color>
+    <color name="group_edittext_hintcolor">#546E7A</color>
+    <color name="group_edittext_border">#f3f8fc</color>
+
+</resources>

@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ReviewProfessionalAppPage" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/group_layout_backgroud</item>
+        <item name="colorPrimaryDark">@color/group_layout_backgroud</item>
+
+    </style>
+
+    <style name="Theme.ReviewProfessionalAppPage" parent="Base.Theme.ReviewProfessionalAppPage" />
+</resources>

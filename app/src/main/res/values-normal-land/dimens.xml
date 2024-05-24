@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="groups_image_width">70dp</dimen>
+    <dimen name="groups_image_height">70dp</dimen>
+    <dimen name="groups_username_margintop">10dp</dimen>
+    <dimen name="groups_username_textsize">18sp</dimen>
+    <dimen name="groups_username_padding">6dp</dimen>
+    <dimen name="group_textview_margin">7dp</dimen>
+    <dimen name="group_textview_padding">6dp</dimen>
+    <dimen name="group_textview_finishes_margin">7dp</dimen>
+    <dimen name="group_textview_textsize">12sp</dimen>
+    <dimen name="group_textview_finishes_textsize">12sp</dimen>
+    <dimen name="group_textview_finishes_padding">6dp</dimen>
+    <dimen name="group_textview_searchhint_marginTop">10dp</dimen>
+    <dimen name="group_textview_searchhint_textsize">18sp</dimen>
+    <dimen name="group_textview_searchhint_padding">8dp</dimen>
+    <dimen name="group_edittext_search_marginVertical">3dp</dimen>
+    <dimen name="group_edittext_search_padding">6dp</dimen>
+    <dimen name="group_edittext_search_drawblepadding">4dp</dimen>
+    <dimen name="group_edittext_search_marginHorizontal">18dp</dimen>
+    <dimen name="group_textview_hintundersearch_marginHorizontal">15dp</dimen>
+    <dimen name="group_textview_hintundersearch_textSize">14sp</dimen>
+    <dimen name="group_textview_hintundersearch_padding">6dp</dimen>
+    <dimen name="group_textview_creategroup_padding">1dp</dimen>
+    <dimen name="group_textview_creategroup_textsize">12sp</dimen>
+    <dimen name="group_textview_creategroup_margintop">0dp</dimen>
+
+</resources>
